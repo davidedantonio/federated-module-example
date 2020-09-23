@@ -1,0 +1,38 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Website App",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production",
+    "serve": "serve dist -p 9001",
+    "clean": "rm -rf dist"
+  },
+  "author": "Davide D'Antonio",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.11.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-decorators": "^7.10.5",
+    "@babel/preset-react": "7.10.4",
+    "babel-loader": "8.1.0",
+    "find-up": "5.0.0",
+    "html-webpack-plugin": "git://github.com/ScriptedAlchemy/html-webpack-plugin#master",
+    "serve": "11.3.2",
+    "webpack": "5.0.0-beta.29",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "dotenv": "^8.2.0",
+    "history": "^5.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-router": "6.0.0-beta.0",
+    "react-router-dom": "6.0.0-beta.0",
+    "reactstrap": "^8.6.0"
+  }
+}
