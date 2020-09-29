@@ -1,12 +1,18 @@
 # Webpack 5 Federated Modules Example
 
-## Install
+![Moduli Federati](./mf-bg.png)
+
+I Moduli federati di Webpack 5 ci offrono un modo completamente nuovo per condividere codice in fase di esecuzione tra diverse applicazioni.
+
+Questo repository mostra un esempio di utilizzo di come i moduli federati siano facili da usare.
+
+## Installazione
 
 ```
-$ yarn install:all
+$ yarn install && yarn install:all
 ```
 
-## Execute
+## Esecuzione
 
 ```
 $ yarn dev:all
