@@ -6,6 +6,14 @@ I Moduli federati di Webpack 5 ci offrono un modo completamente nuovo per condiv
 
 Questo repository mostra un esempio di utilizzo di come i moduli federati siano facili da usare.
 
+Troverete l'articolo completo su Medium al seguente indirizzo:
+
+[https://medium.com/webeetle](https://medium.com/webeetle)
+
+```
+HAPPY CODING!
+```
+
 ## Installazione
 
 ```
