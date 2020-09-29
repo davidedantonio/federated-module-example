@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Federated Module Example",
   "private": true,
+  "repository": "git@github.com:davidedantonio/federated-module-example.git",
   "scripts": {
     "install:all": "concurrently \"npm:fm-cms-install\" \"npm:fm-website-install\"",
     "dev:all": "concurrently \"npm:fm-cms\" \"npm:fm-website\"",

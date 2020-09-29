@@ -1,5 +1,12 @@
 import React from "react";
-import { Button, Card, CardText, CardTitle, CardHeader, CardBody } from "reactstrap";
+import { 
+  Button, 
+  Card, 
+  CardText, 
+  CardTitle, 
+  CardHeader, 
+  CardBody
+} from "reactstrap";
 
 class ProductWidget extends React.Component {
   render() {
